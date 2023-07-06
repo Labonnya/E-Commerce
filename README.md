@@ -1,1 +1,3 @@
 # E-Commerce
+
+The implemented e-commerce platform utilizes the Strategy, Mediator, and Template Method design patterns. The Strategy pattern is employed to handle different payment methods, allowing users to choose their preferred method during the purchase process. The Mediator pattern facilitates communication between product and user components, enabling loose coupling and enhancing maintainability. The Template Method pattern defines a standardized process for purchasing, managing user accounts, and processing payments, with specific steps overridden as necessary. This combination of design patterns results in a flexible and scalable e-commerce platform.
